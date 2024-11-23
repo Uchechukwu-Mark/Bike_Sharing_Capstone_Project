@@ -4,7 +4,7 @@ This project delves into how different bike users being the annual members and c
 
 "Google Data Analytics Capstone project"
 
-Case Study 1
+Case Study 1(R Programming Language)
 
 How Does a Bike-Share Navigate Speedy Success?
 
